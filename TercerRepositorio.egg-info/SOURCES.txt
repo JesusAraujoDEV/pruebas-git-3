@@ -1,0 +1,7 @@
+README.md
+setup.py
+TercerRepositorio.egg-info/PKG-INFO
+TercerRepositorio.egg-info/SOURCES.txt
+TercerRepositorio.egg-info/dependency_links.txt
+TercerRepositorio.egg-info/top_level.txt
+pruebas-git-3/__init__.py
