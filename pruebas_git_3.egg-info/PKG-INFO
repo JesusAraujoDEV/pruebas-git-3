@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: pruebas-git-3
+Version: 0.2.0
+Summary: Un paquete pip simple de saludo, pero ahora formateado
+Home-page: https://github.com/JesusAraujoDEV/pruebas-git-3
+Author: Jesús Araujo
+Author-email: jesusaraujodev@gmail.com
+Dynamic: author
+Dynamic: author-email
+Dynamic: home-page
+Dynamic: summary
